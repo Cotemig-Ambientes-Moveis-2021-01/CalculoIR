@@ -1,4 +1,4 @@
-# CalculoIR
+# Cálculo de IR
 
 ## Trecho de Código com Cálculo do IR
 
